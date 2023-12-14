@@ -1,0 +1,55 @@
+<style>
+
+h1 {
+    color: orange; text-align: middle; vertical-align: top;
+}
+h3 {
+    color: yellow; text-align: left;
+}
+h4 {
+    color: lightcoral;
+}
+p {
+    color:white; margin-top: 25px; margin-bottom: 25px; margin-right: 75px; margin-left: 40px;
+}
+li {
+    color: lightgreen; text-align: left;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #444;
+    padding: 0.5em;
+}
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: #333;
+}
+header {
+    background-color: #8945e2;
+    color: orange;
+    text-align: center;
+    padding: 1em;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #a075e6;
+    padding: 0.5em;
+}
+tr {
+    text-align: center;
+}
+td {
+    text-align: center;
+}
+img {
+    align: center;
+}
+a {
+    text-decoration: none;
+}
+</style>
