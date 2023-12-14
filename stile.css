@@ -29,7 +29,7 @@ body {
     color: #333;
 }
 header {
-    background-color: #8945e2;
+    background-color: #00ff37;
     color: orange;
     text-align: center;
     padding: 1em;
@@ -37,7 +37,7 @@ header {
 nav {
     display: flex;
     justify-content: space-around;
-    background-color: #a075e6;
+    background-color: #4c00ff;
     padding: 0.5em;
 }
 tr {
@@ -48,6 +48,7 @@ td {
 }
 img {
     align: center;
+    
 }
 a {
     text-decoration: none;
